@@ -1,4 +1,4 @@
-package softex;
+package bot;
 import robocode.*;
 import java.awt.Color;
 //import java.awt.Color;
